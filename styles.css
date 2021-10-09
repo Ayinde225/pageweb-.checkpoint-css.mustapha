@@ -1,0 +1,55 @@
+.m1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 4px solid rgb(0, 89, 255);
+    border-radius: 10px;
+    color: rgba(174, 189, 107, 0.897);
+    background-color: darkslategray;
+}
+.navbar ul li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+    color: rgba(168, 31, 21, 0.897);
+    background-color: sandybrown;
+    border-radius: 9px;
+}
+.font1{
+    background-color: rgb(149, 179, 174);
+}
+.m2{
+    text-decoration: underline;
+}
+form label{
+    text-decoration: underline;
+}
+div video{
+    border-radius: 20px;
+    margin-left: 230px;
+}
+#img{
+    border-radius: 15px;
+}
+section form input{
+    border-radius: 8px;
+}
+section form label{
+    color: brown;
+}
+.m3{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.font2{
+    background-color: darksalmon;
+}
+div audio{
+    margin-left: 150px;
+}
+.coulaudio{
+    background-color: darkseagreen;
+}
